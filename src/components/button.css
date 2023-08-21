@@ -1,0 +1,13 @@
+.calc-button {
+    display: flex;
+    width: 60px;
+    height: 60px;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    margin: 3px;
+    font-weight: bold;
+}
+
+.calc-button:hover {
+    color: red;
+}

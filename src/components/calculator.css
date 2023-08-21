@@ -1,0 +1,11 @@
+.calc-wrapper {
+    font-family: sans-serif;
+    background-color: lightgray;
+    border: 1px solid black;
+    width: 265px;
+}
+
+.calc-row {
+    display: flex;
+    border: 1px solid darkgray;
+}
